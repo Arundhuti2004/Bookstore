@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?uid=R180414333&ga=GA1.1.251999968.1735020429&semt=ais_hybrid"
+    },
+
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/surprised-young-superhero-man-optical-glasses-wearing-suit-with-red-cloak-stands-with-raised-hand-holds-book-isolated-white-wall_141793-95595.jpg?t=st=1735059156~exp=1735062756~hmac=287accf52f37e8cf0ca0b45fcd47942ca5a9377ed17724f901a8328b26dde179&w=900"
+    },
+    {
+        "id":3,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/fairy-tales-castle-tower-pop-up-book-cartoon-style-white_1308-48088.jpg?t=st=1735105242~exp=1735108842~hmac=58d403bec9718fd243a2446527fe8fcb8f97885ad43bbc75eef99e2ea5c6631d&w=740"
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":60,
+        "category":"Song",
+        "image":"https://img.freepik.com/premium-photo/black-books-with-headphones-blue-magic-notes_266732-26783.jpg?w=740"
+    },
+    {
+        "id":5,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735058757~exp=1735062357~hmac=900f22e2ddb957b0edc71f560d8df1a6c483094e1432794c5d95a3894ead70b8&w=740"
+    },
+    {
+        "id":6,
+        "name": "Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":80,
+        "category":"Music",
+        "image":"https://img.freepik.com/premium-photo/black-books-with-headphones-blue-magic-notes_266732-26783.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735058757~exp=1735062357~hmac=900f22e2ddb957b0edc71f560d8df1a6c483094e1432794c5d95a3894ead70b8&w=740"
+    },
+    {
+        "id":8,
+        "name": "GK Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":100,
+        "category":"Knowledge",
+        "image":"https://img.freepik.com/free-vector/gradient-glossary-illustration_23-2150290955.jpg?t=st=1735059326~exp=1735062926~hmac=bee556688323043a9dc46a27be38d01d58f9100e9b24756ea8e34b13dc5935b7&w=740"
+    },
+    {
+        "id":9,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735058757~exp=1735062357~hmac=900f22e2ddb957b0edc71f560d8df1a6c483094e1432794c5d95a3894ead70b8&w=740"
+    },
+    {
+        "id":10,
+        "name": "GK Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":90,
+        "category":"Knowledge",
+        "image":"https://img.freepik.com/free-vector/gradient-glossary-illustration_23-2150290955.jpg?t=st=1735059326~exp=1735062926~hmac=bee556688323043a9dc46a27be38d01d58f9100e9b24756ea8e34b13dc5935b7&w=740"
+    },
+    {
+        "id":11,
+        "name": "Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735058757~exp=1735062357~hmac=900f22e2ddb957b0edc71f560d8df1a6c483094e1432794c5d95a3894ead70b8&w=740"
+    },
+    {
+        "id":12,
+        "name": "Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/surprised-young-superhero-man-optical-glasses-wearing-suit-with-red-cloak-stands-with-raised-hand-holds-book-isolated-white-wall_141793-95595.jpg?t=st=1735059156~exp=1735062756~hmac=287accf52f37e8cf0ca0b45fcd47942ca5a9377ed17724f901a8328b26dde179&w=900"
+    }
+
+
+]
